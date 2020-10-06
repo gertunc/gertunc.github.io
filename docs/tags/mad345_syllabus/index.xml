@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FALL 2020-2021</title>
-    <link>/</link>
-    <description>Recent content on FALL 2020-2021</description>
+    <title>mad345_syllabus on FALL 2020-2021</title>
+    <link>/tags/mad345_syllabus/</link>
+    <description>Recent content in mad345_syllabus on FALL 2020-2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Gunes Ertunc</copyright>
-    <lastBuildDate>Tue, 06 Oct 2020 21:13:14 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2020 21:13:14 -0500</lastBuildDate><atom:link href="/tags/mad345_syllabus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weekly Schedule</title>
       <link>/posts/post01_mad345/</link>
@@ -19,18 +19,6 @@ I have set zoom meeting link for MAD345. Check out its detail here
 Below, you can find detailed weekly schedule of MAD345 for underground mining part
 GE
 DateTopicOctober 7IntroductionOctober 9Rocks, minerals and mineral inventory evaluationOctober 14Mining Method SelectionOctober 15Ground MechanicsOctober 21SupportsOctober 22DrillingOctober 28Underground DevelopmentOctober 29Explosives and blastingNovember 4Underground ExtractionNovember 5Transportation – Haulage And HoistingNovember 11Sustainable DevelopmentNovember 12Planning for mine closureNovember 18Midterm 1</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>/posts/post00/</link>
-      <pubDate>Mon, 05 Oct 2020 13:25:03 +0000</pubDate>
-      
-      <guid>/posts/post00/</guid>
-      <description>Dear all,
-This blog is created for the Hacettepe University Mining Engineering Fall 2020-2021 lectures notes&#39; repository given by me. You can navigate through the &amp;ldquo;Tags&amp;rdquo; that are attached to each post in corresponding dates for upcoming lectures.
-Good Luck!
-GE</description>
     </item>
     
   </channel>
