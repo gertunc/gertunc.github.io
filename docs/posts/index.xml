@@ -21,5 +21,17 @@ Join Zoom Meeting https://zoom.us/j/2064310007
 Meeting ID: 206 431 0007</description>
     </item>
     
+    <item>
+      <title>Welcome</title>
+      <link>/posts/post00/</link>
+      <pubDate>Mon, 05 Oct 2020 13:25:03 +0000</pubDate>
+      
+      <guid>/posts/post00/</guid>
+      <description>Dear all,
+This blog is created for the Hacettepe University Mining Engineering Fall 2020-2021 lectures notes&#39; repository given by me. You can navigate through the &amp;ldquo;Tags&amp;rdquo; that are attached to each post in corresponding dates for upcoming lectures.
+Good Luck!
+GE</description>
+    </item>
+    
   </channel>
 </rss>

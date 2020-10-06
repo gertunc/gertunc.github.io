@@ -26,5 +26,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>first post</title>
+      <link>/tags/first-post/</link>
+      <pubDate>Mon, 05 Oct 2020 13:25:03 +0000</pubDate>
+      
+      <guid>/tags/first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>/tags/welcome/</link>
+      <pubDate>Mon, 05 Oct 2020 13:25:03 +0000</pubDate>
+      
+      <guid>/tags/welcome/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
