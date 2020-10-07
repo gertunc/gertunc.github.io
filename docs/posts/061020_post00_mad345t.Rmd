@@ -26,7 +26,7 @@ Below, you can find detailed weekly schedule of MAD345 for underground mining pa
 
 
 
-`r emo::ji("sun")` GE
+`r emo::ji("sun")` GERTUNC `r emo::ji("hammer_and_pick")`
 
 ```{r , echo=FALSE}
 library(kableExtra)

@@ -37,10 +37,11 @@ Textbooks for the MAD345 are as follows:
 
 1. Ratan Tatiya, 2005, "**Surface and Underground Excavations: Methods, Techniques and Equipment**", Taylor & Francis Group, LLC
 2. Peter Darling (Ed.), 2011, "**SME Mining Engineering Handbook, Third Edition**", Society for Mining, Metallurgy, and Exploration (US)
+3. Galvin, J.M., 2016, "**Ground Engineering : Principles and Practices for Underground Coal Mining**", Springer
 
 See you tomorrow via Zoom!
 
-`r emo::ji("sun")` GERTUNC
+`r emo::ji("sun")` GERTUNC `r emo::ji("hammer_and_pick")`
 
 
 
