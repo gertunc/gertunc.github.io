@@ -1,6 +1,6 @@
 ---
-title: "Weekly Schedule" 
-description: "Zoom link & MAD345 syllabus"
+title: "MAD345 Weekly Schedule (Underground Part)" 
+description: "MAD345 syllabus"
 date: 2020-10-06T21:13:14-05:00
 output:
   html_document:
