@@ -37,7 +37,8 @@ Topic=c("Introduction", "Rocks, minerals and mineral inventory evaluation", "Min
 
 kbl(text_tbl,escape = F) %>%
     kable_styling(bootstrap_options = c("striped", "hover"), full_width = T)%>%
-  column_spec(1, width = "8em")
+  column_spec(1, width = "8em")%>%
+    column_spec(2, width = "40em")
 
 ```
 
