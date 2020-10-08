@@ -28,7 +28,7 @@ Below, you can find detailed weekly schedule of MAD213.
 
 `r emo::ji("sun")` GERTUNC `r emo::ji("bar_chart")`
 
-![](/images/scoob.jpg){width=30% }
+![](/images/scoob.jpg){width=50% }
 
 ```{r , echo=FALSE}
 library(kableExtra)
