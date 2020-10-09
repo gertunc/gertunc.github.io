@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mad213_lecturenotes on FALL 2020-2021</title>
+    <link>/tags/mad213_lecturenotes/</link>
+    <description>Recent content in mad213_lecturenotes on FALL 2020-2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Gunes Ertunc</copyright>
+    <lastBuildDate>Fri, 09 Oct 2020 00:01:00 -0300</lastBuildDate><atom:link href="/tags/mad213_lecturenotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MAD213 Basic Statistics, Week 01</title>
+      <link>/posts/091020_post01_mad213t/</link>
+      <pubDate>Fri, 09 Oct 2020 00:01:00 -0300</pubDate>
+      
+      <guid>/posts/091020_post01_mad213t/</guid>
+      <description>DateTopicOctober 9IntroductionDear all,
+Textbook recommendation for the MAD213 are as follows:
+Online Statistics Education: An Interactive Multimedia Course of Study, Developed by Rice University , University of Houston Clear Lake, and Tufts University. [pdf link]Pierre Lafaye de Micheaux, Rémy Drouilhet, Benoit Liquet, 2013, “The R Software Fundamentals of Programming and Statistical Analysis”, SpringerJohn Chambers, 2008, “Software for Data Analysis”,Jacek M.</description>
+    </item>
+    
+  </channel>
+</rss>
