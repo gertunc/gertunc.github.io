@@ -1,0 +1,37 @@
+---
+title: "MAD213 Basic Statistics, Week 03" 
+description: "Lecture: Measures of location and dispersion"
+date: 2020-10-23T00:01:00-03:00
+output:
+  html_document:
+    toc: true
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
+    toc_depth: 3
+    fig_caption: yes
+    code_folding: show
+    number_sections: true
+
+fontsize: 14pt
+tags: [mad213_lecturenotes,mad213_lecturenotes_week03]
+comments: false
+---
+```{r , echo=FALSE}
+library(kableExtra)
+text_tbl <- data.frame(
+Date=c("October 7","October 23"),
+Topic=c("[Introduction](/posts/091020_post01_mad213t/index.html)",
+        "Measures of location and dispersion  (Lecture slides [link](/upload/mad213t_w03_oct23.pdf))")
+)
+
+kbl(text_tbl,escape = F) %>%
+    kable_styling(bootstrap_options = c("striped", "hover"), full_width = T)%>%
+  column_spec(1, width = "8em")%>%
+    column_spec(2, width = "40em")%>%
+  row_spec(2, background = "orange", color="black", bold = TRUE)%>%
+  row_spec(1, color="lightgrey",background = "white")
+
+```
+
+`r emo::ji("sun")` GERTUNC `r emo::ji("bar_chart")`
