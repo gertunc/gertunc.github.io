@@ -1,0 +1,27 @@
+---
+title: "MAD213 Basic Statistics, Week 04-05" 
+description: "Lecture: z-scores, Emprical theorem, and chebyshev's Theorem"
+date: 2020-11-06T08:01:00-03:00
+output:
+  html_document:
+    toc: true
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
+    toc_depth: 3
+    fig_caption: yes
+    code_folding: show
+    number_sections: true
+
+fontsize: 14pt
+tags: []
+comments: false
+---
+
+Dear all,
+
+Lecture notes are available [here.](/upload/mad213t_w04_oct30-nov6.pdf) 
+
+Good luck,
+
+`r emo::ji("sun")` GERTUNC `r emo::ji("bar_chart")`
