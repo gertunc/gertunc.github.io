@@ -1,6 +1,6 @@
 ---
 title: "MAD213 Basic Statistics, Week 04-05" 
-description: "Lecture: z-scores, Emprical theorem, and chebyshev's Theorem"
+description: "Lecture: z-scores, Emprical theorem, and Chebyshev's Theorem"
 date: 2020-11-06T08:01:00-03:00
 output:
   html_document:
