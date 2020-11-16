@@ -1,0 +1,27 @@
+---
+title: "MAD345 Mining II(T), Week 05" 
+description: "Lecture: U/G mine extraction"
+date: 2020-11-12T08:00:00-03:00
+output:
+  html_document:
+    toc: true
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
+    toc_depth: 3
+    fig_caption: yes
+    code_folding: show
+    number_sections: true
+
+fontsize: 14pt
+tags: []
+comments: false
+---
+
+Dear all,
+
+Lecture notes are available [here.](/upload/mad345t_w05_nov11-12.pdf) 
+
+Good luck,
+
+`r emo::ji("sun")` GERTUNC `r emo::ji("hammer_and_pick")`

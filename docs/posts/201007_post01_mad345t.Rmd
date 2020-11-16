@@ -1,0 +1,49 @@
+---
+title: "MAD345 Mining II(T), Week 01" 
+description: "Lecture: Introduction"
+date: 2020-10-07T08:00:00-03:00
+output:
+  html_document:
+    toc: true
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
+    toc_depth: 3
+    fig_caption: yes
+    code_folding: show
+    number_sections: true
+
+fontsize: 14pt
+tags: [mad345_lecturenotes,mad345_lecturenotes_week01]
+comments: false
+---
+```{r , echo=FALSE}
+library(kableExtra)
+text_tbl <- data.frame(
+Date=c("October 7"),
+Topic=c("Introduction")
+)
+
+kbl(text_tbl,escape = F) %>%
+    kable_styling(bootstrap_options = c("striped", "hover"), full_width = T)%>%
+  column_spec(1, width = "8em")%>%
+    column_spec(2, width = "40em")%>%
+  row_spec(1, background = "orange", color="black")
+
+```
+
+Dear all,
+
+Textbooks for the MAD345 are as follows: 
+
+1. Ratan Tatiya, 2005, "**Surface and Underground Excavations: Methods, Techniques and Equipment**", Taylor & Francis Group, LLC
+2. Peter Darling (Ed.), 2011, "**SME Mining Engineering Handbook, Third Edition**", Society for Mining, Metallurgy, and Exploration (US)
+3. Galvin, J.M., 2016, "**Ground Engineering : Principles and Practices for Underground Coal Mining**", Springer
+
+See you tomorrow via Zoom!
+
+`r emo::ji("sun")` GERTUNC `r emo::ji("hammer_and_pick")`
+
+
+
+

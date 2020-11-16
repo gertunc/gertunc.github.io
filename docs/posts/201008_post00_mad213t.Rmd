@@ -1,0 +1,49 @@
+---
+title: "MAD213 Weekly Schedule" 
+description: "MAD213 syllabus"
+date: 2020-10-08T11:00:00-05:00
+output:
+  html_document:
+    toc: true
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
+    toc_depth: 3
+    fig_caption: yes
+    code_folding: show
+    number_sections: true
+
+fontsize: 14pt
+tags: [mad213_syllabus]
+comments: false
+---
+
+Dear all, 
+
+I have set zoom meeting link for MAD213. Check out its detail [here](https://evdekal.hacettepe.edu.tr)
+
+Below, you can find detailed weekly schedule of MAD213.
+
+
+
+`r emo::ji("sun")` GERTUNC `r emo::ji("bar_chart")`
+
+![](/images/scoob.jpg){width=50% }
+
+```{r , echo=FALSE}
+library(kableExtra)
+text_tbl <- data.frame(
+Date=c("October 9","October 16","October 23","October 30","November 6","November 13","November 20","November 27","December 4","December 11","December 18","December 25","January 1","January 8"),
+Topic=c("Introduction", "Basic definitions and concepts", "Measures of location and dispersion", "Representing data graphically", "Distributions", "t tests", "Midterm 1", "ANOVA", "Regression", "Correlation", "Confidence intervals", "Chi square tests","Public Holiday: New Year","Midterm 2")
+)
+
+kbl(text_tbl,escape = F) %>%
+    kable_styling(bootstrap_options = "striped", full_width = T)%>%
+  column_spec(1, width = "8em")%>%
+    column_spec(2, width = "40em")%>%
+  row_spec(13, background = "green", color="white")%>%
+  row_spec(7, color="red")%>%
+  row_spec(14, color="red")
+
+```
+

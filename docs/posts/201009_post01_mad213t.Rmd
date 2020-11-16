@@ -1,0 +1,48 @@
+---
+title: "MAD213 Basic Statistics, Week 01" 
+description: "Lecture: Introduction"
+date: 2020-10-09T00:01:00-03:00
+output:
+  html_document:
+    toc: true
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
+    toc_depth: 3
+    fig_caption: yes
+    code_folding: show
+    number_sections: true
+
+fontsize: 14pt
+tags: [mad213_lecturenotes,mad213_lecturenotes_week01]
+comments: false
+---
+```{r , echo=FALSE}
+library(kableExtra)
+text_tbl <- data.frame(
+Date=c("October 9"),
+Topic=c("Introduction")
+)
+
+kbl(text_tbl,escape = F) %>%
+    kable_styling(bootstrap_options = c("striped", "hover"), full_width = T)%>%
+  column_spec(1, width = "8em")%>%
+    column_spec(2, width = "40em")%>%
+  row_spec(1, background = "orange", color="black")
+
+```
+
+Dear all,
+
+Textbook recommendation for the MAD213 are as follows: 
+
+1. **Online Statistics Education: An Interactive Multimedia Course of Study**, Developed by Rice University , University of Houston Clear Lake, and Tufts University. [[pdf link]](http://onlinestatbook.com/Online_Statistics_Education.pdf) (In lecture, I will refer this open source pdf as ***"Online Statistics pdf"***)
+2. Pierre Lafaye de Micheaux, Rémy Drouilhet, Benoit Liquet, 2013, "**The R Software Fundamentals of Programming and Statistical Analysis**", Springer
+3. John Chambers, 2008, "**Software for Data Analysis**",
+4. Jacek M. Czaplicki, 2014, "**Statistics for Mining Engineering**", CRC Press London
+
+See you on October 16th via Zoom!
+
+P.S. - Just have a look and read Chapter 1. Introduction from the ***"Online Statistics pdf"*** prior to next lecture.
+
+`r emo::ji("sun")` GERTUNC `r emo::ji("bar_chart")`

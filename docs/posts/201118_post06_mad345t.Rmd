@@ -1,0 +1,35 @@
+---
+title: "Announcement about MAD345 Mining II, on November 18" 
+description: "Rules"
+date: 2020-11-16T08:00:00-03:00
+output:
+  html_document:
+    toc: true
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
+    toc_depth: 3
+    fig_caption: yes
+    code_folding: show
+    number_sections: true
+
+fontsize: 14pt
+tags: []
+comments: false
+---
+
+
+
+Dear all,
+
+`r emo::ji("loudspeaker")` MAD345 - MIDTERM 1
+
+Your midterm exam will be available at [evdekal.hacettepe.edu.tr](https://evdekal.hacettepe.edu.tr). It will be available on November 18, 2020 at 09h15 until 10h15.
+
+We will be having discussion about exam rules via Zoom, prior to the exam, which will be starting at 09h00 as usual, like we did at lectures.
+
+See you at November 18, 2020 at 09h00.
+
+Good luck,
+
+`r emo::ji("sun")` GERTUNC `r emo::ji("hammer_and_pick")`
