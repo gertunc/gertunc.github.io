@@ -1,0 +1,33 @@
+---
+title: "Announcement about Midterm, MAD213 Basic Statistics, on November 20" 
+description: "Postpone"
+date: 2020-11-19T08:00:00-03:00
+output:
+  html_document:
+    toc: true
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
+    toc_depth: 3
+    fig_caption: yes
+    code_folding: show
+    number_sections: true
+
+fontsize: 14pt
+tags: []
+comments: false
+---
+
+Dear all,
+
+`r emo::ji("loudspeaker")` MAD213 - MIDTERM 1
+
+Midterm of Basic Statistics tomorrow is postponed. Your midterm exam will be on November 27, 2020. There will be no class for tomorrow.
+
+We will be having discussion about exam rules via Zoom, prior to the exam next week, which will be starting at 10h00 as usual, like we did at lectures.
+
+See you at November 27, 2020 at 10h00.
+
+Good luck,
+
+`r emo::ji("sun")` GERTUNC `r emo::ji("bar_chart")`
