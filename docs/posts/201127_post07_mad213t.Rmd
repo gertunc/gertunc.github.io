@@ -1,0 +1,34 @@
+---
+title: "Announcement about Midterm, MAD213 Basic Statistics" 
+description: "Rules"
+date: 2020-11-27T08:00:00-03:00
+output:
+  html_document:
+    toc: true
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
+    toc_depth: 3
+    fig_caption: yes
+    code_folding: show
+    number_sections: true
+
+fontsize: 14pt
+tags: []
+comments: false
+---
+
+
+
+Dear all,
+
+`r emo::ji("loudspeaker")` MAD213 - MIDTERM 1
+
+Your midterm exam will be available at [evdekal.hacettepe.edu.tr](https://evdekal.hacettepe.edu.tr). It will be available today at 10h15 until 11h00.
+
+We will be having discussion about exam rules via Zoom, prior to the exam, which will be starting at 10h00 as usual, like we did at lectures.
+
+
+Good luck,
+
+`r emo::ji("sun")` GERTUNC `r emo::ji("bar_chart")`
