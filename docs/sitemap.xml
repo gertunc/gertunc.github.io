@@ -3,158 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/210121_post08_mad213t/</loc>
-    <lastmod>2021-01-20T08:00:00-03:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2021-01-30T09:45:00-03:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-01-20T08:00:00-03:00</lastmod>
+    <lastmod>2021-01-30T09:45:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2021-01-20T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201225_post08_mad213t/</loc>
-    <lastmod>2020-12-25T07:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201127_post07_mad213t/</loc>
-    <lastmod>2020-11-27T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201119_post06_mad213t/</loc>
-    <lastmod>2020-11-19T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201118_post06_mad345t/</loc>
-    <lastmod>2020-11-16T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201113_post05_mad213t/</loc>
-    <lastmod>2020-11-13T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201112_post01_mdn722/</loc>
-    <lastmod>2020-11-12T08:01:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201112_post05_mad345t/</loc>
-    <lastmod>2020-11-12T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201106_post04_mad213t/</loc>
-    <lastmod>2020-11-06T08:01:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201106_post04_mad345t/</loc>
-    <lastmod>2020-11-06T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201030_post03_mad213t/</loc>
-    <lastmod>2020-10-28T08:01:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201028_post03_mad345t/</loc>
-    <lastmod>2020-10-28T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mad345_lecturenotes/</loc>
-    <lastmod>2020-10-28T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mad345_lecturenotes_week02/</loc>
-    <lastmod>2020-10-28T08:00:00-03:00</lastmod>
+    <loc>/posts/post01_01_302021/</loc>
+    <lastmod>2021-01-30T09:45:00-03:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-10-28T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201023_post02_mad213t/</loc>
-    <lastmod>2020-10-23T00:01:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mad213_lecturenotes/</loc>
-    <lastmod>2020-10-23T00:01:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mad213_lecturenotes_week03/</loc>
-    <lastmod>2020-10-23T00:01:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201014_post02_mad345t/</loc>
-    <lastmod>2020-10-14T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201009_post01_mad213t/</loc>
-    <lastmod>2020-10-09T00:01:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mad213_lecturenotes_week01/</loc>
-    <lastmod>2020-10-09T00:01:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201008_post00_mad213t/</loc>
-    <lastmod>2020-10-08T11:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mad213_syllabus/</loc>
-    <lastmod>2020-10-08T11:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201008_post01_mad345p/</loc>
-    <lastmod>2020-10-08T09:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mad345_lecturenotes_week01/</loc>
-    <lastmod>2020-10-08T09:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201007_post01_mad345t/</loc>
-    <lastmod>2020-10-07T08:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201006_post00_mad345t/</loc>
-    <lastmod>2020-10-06T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mad345_syllabus/</loc>
-    <lastmod>2020-10-06T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/201005_post00_mad999t_/</loc>
-    <lastmod>2020-10-05T13:25:03+00:00</lastmod>
   </url>
   
 </urlset>
