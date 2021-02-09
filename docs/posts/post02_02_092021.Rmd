@@ -1,0 +1,23 @@
+---
+title: "Quote of the day" 
+description: "If something's important enough, you should try. Even if probable outcome is failure. - Elon Musk "
+date: 2021-02-09T09:45:00-03:00
+output:
+  html_document:
+    toc: true
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
+    toc_depth: 3
+    fig_caption: yes
+    code_folding: show
+    number_sections: true
+
+fontsize: 14pt
+tags: []
+comments: false
+---
+
+[Entrepreneurs: 5 Things We Can Learn From Elon Musk](https://www.forbes.com/sites/richwinley/2015/10/08/entrepreneurs-5-things-we-can-learn-from-elon-musk/?sh=386a11640981)
+
+`r emo::ji("sun")` GERTUNC
