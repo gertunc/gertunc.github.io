@@ -1,0 +1,28 @@
+---
+title: "New! Lecture announcement Spring 2020/21 " 
+description: "MAD434: SOCIAL LICENCE TO OPERATE IN MINING"
+date: 2021-02-10T15:13:00
+output:
+  html_document:
+    toc: true
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
+    toc_depth: 3
+    fig_caption: yes
+    code_folding: show
+    number_sections: true
+
+fontsize: 14pt
+tags: [MAD434]
+comments: false
+---
+
+Dear all,
+
+`r emo::ji("loudspeaker")` Starting from Spring 2020/21, there will be new technical elective in our curriculum for 8^th^ Semester called **"SOCIAL LICENCE TO OPERATE IN MINING"** the course code is **MAD434**.
+
+In this blog, you will find further information on this course.
+
+
+`r emo::ji("sun")` GERTUNC
