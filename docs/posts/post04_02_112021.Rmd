@@ -20,7 +20,8 @@ comments: false
 
 «Je pense donc je suis, car pour penser il est nécessaire d'être.»  - René Descartes
 
-![](../../static/images/RD2.jpg)
+![](/images/RD2.jpg){width=40% }
+
 
 
 `r emo::ji("sun")` GERTUNC
