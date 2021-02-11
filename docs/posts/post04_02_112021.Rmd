@@ -1,0 +1,26 @@
+---
+title: "Quote of the day" 
+description: "«Je pense donc je suis, car pour penser il est nécessaire d'être.» - René Descartes"
+date: 2021-02-11T09:27:00-03:00
+output:
+  html_document:
+    toc: true
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
+    toc_depth: 3
+    fig_caption: yes
+    code_folding: show
+    number_sections: true
+
+fontsize: 14pt
+tags: []
+comments: false
+---
+
+«Je pense donc je suis, car pour penser il est nécessaire d'être.»  - René Descartes
+
+![](../../static/images/RD2.jpg)
+
+
+`r emo::ji("sun")` GERTUNC
