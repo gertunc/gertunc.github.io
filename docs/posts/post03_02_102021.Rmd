@@ -1,5 +1,5 @@
 ---
-title: "New! Lecture announcement Spring 2020/21 " 
+title: "Lecture announcement Spring 2020/21 " 
 description: "MAD434: SOCIAL LICENCE TO OPERATE IN MINING"
 date: 2021-02-10T15:13:00
 output:

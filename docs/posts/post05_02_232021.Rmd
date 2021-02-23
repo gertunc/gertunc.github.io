@@ -1,0 +1,40 @@
+---
+title: "Social Licence to Operate" 
+description: "Few useful youtube links"
+date: 2021-02-23T09:00:00-03:00
+output:
+  html_document:
+    toc: true
+    toc_float:
+        collapsed: true
+        smooth_scroll: true
+    toc_depth: 3
+    fig_caption: yes
+    code_folding: show
+    number_sections: true
+
+fontsize: 14pt
+tags: [MAD434]
+comments: false
+---
+
+**Innovate for Sustainability Challenge**
+
+```{r, eval=TRUE, echo=FALSE}
+blogdown::shortcode("youtube", "6t4etVaFdpQ")
+```
+
+
+**The Social License to Operate | Junita Van der Colff | TEDxPretoria**
+
+```{r, eval=TRUE, echo=FALSE}
+blogdown::shortcode("youtube", "ocx1cBgiSyY")
+```
+
+**Overcoming a Lack of Trust: Securing Social License to Operate - ICMM**
+
+```{r, eval=TRUE, echo=FALSE}
+blogdown::shortcode("youtube", "p6kMfz5H1cM")
+```
+
+`r emo::ji("sun")` GERTUNC
