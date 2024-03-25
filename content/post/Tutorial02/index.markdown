@@ -124,12 +124,11 @@ dt$log_Zn<- signif(dt$log_Zn, digits = 3)
 row.names(dt) <- c("Minimum","Q1", "Q2 (median)","Mean","Q3","Maximum")
 
 # Arranging the table
-kbl(dt,caption = "Table 1: Summary statistics for Zn and log(Zn)") %>%
+kbl(dt) %>%
     kable_styling(bootstrap_options = "striped", full_width = F, position = "left")
 ```
 
 <table class="table table-striped" style="width: auto !important; ">
-<caption>(\#tab:summary_table)Table 1: Summary statistics for Zn and log(Zn)</caption>
  <thead>
   <tr>
    <th style="text-align:left;">   </th>
