@@ -104,7 +104,7 @@ social:
     link: 'https://www.scopus.com/authid/detail.uri?authorId=55503577400'
   - icon: download
     icon_pack: fas
-    link: '/uploads/GunesErtunc_CV_Feb2024.pdf'
+    link: '/upload/GunesErtunc_CV_Feb2024.pdf'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
